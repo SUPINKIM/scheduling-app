@@ -1,9 +1,9 @@
 # scheduling-app
 회의실 예약 애플리케이션
 
-🛠  기술 스택 : react-native
+🛠 &nbsp; 기술 스택 : react-native
 
-✅  구현 기능
+✅  &nbsp; 구현 기능
 - [ ] 로그인 기능
 - [ ] 팀 생성
   - [ ] 유저 초대 기능
